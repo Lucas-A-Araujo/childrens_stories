@@ -1,0 +1,3 @@
+class InterceptorsApp {
+  headerToken() async {}
+}

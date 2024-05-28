@@ -1,0 +1,3 @@
+class VirtuesModel {
+  VirtuesModel();
+}
